@@ -1,0 +1,58 @@
+.ftitre {
+  color: rgb(214, 165, 91);
+  margin-left: 250px;
+  margin-top: 80px;
+}
+.form {
+  width: 700px;
+  height: 600px;
+  margin-bottom: 40px;
+  margin-left: 350px;
+  margin-top: 40px;
+  border: 5px solid rgb(165, 142, 42);
+  background-color: teal;
+  border-radius: 7%;
+}
+.email1 {
+  margin-left: 100px;
+  margin-top: 30px;
+
+  height: 30px;
+  width: 300px;
+  border-color: 1 solid px;
+  border-radius: 5px;
+}
+.email {
+  margin-left: 70px;
+  margin-top: 30px;
+
+  height: 30px;
+  width: 300px;
+  border-color: 1 solid px;
+  border-radius: 5px;
+}
+.titre2 {
+  margin-left: 100px;
+  color: rgb(214, 165, 91);
+}
+.submit{
+
+  border-radius: 7%;
+ background-color:  rgb(165, 142, 42);
+ color: wheat;
+  margin-left: 300px;
+  margin-right:40px ;
+  margin-top: 50px;
+  font-family: fantasy;
+  font-size: 30px;
+}
+.cancel{
+  background-color: rgb(148, 94, 94);
+  border-radius: 7%;
+  
+  color: wheat;
+   
+   margin-right:40px ;
+   margin-top: 50px;
+   font-family: fantasy;
+   font-size: 30px;}

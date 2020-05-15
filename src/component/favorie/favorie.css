@@ -1,0 +1,26 @@
+.favoritte {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+.name-fav {
+  padding-left: 500px;
+  margin-bottom: 50px;
+}
+.supprim{
+  border-radius: 50%;
+  background-color: white;
+  border:3px solid rgb(82, 82, 69);
+  margin-bottom: 20px;
+}
+.supprim:hover{
+  border-radius: 50%;
+  background-color: white;
+  border:3px solid rgb(82, 82, 69);
+}
+.Container{
+ 
+  margin: 10px;
+}

@@ -1,0 +1,49 @@
+.titre {
+  color: rgb(83, 185, 211);
+  margin-left: 400px;
+}
+.pos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+  width: 70%;
+  margin-left: 100px;
+  margin-bottom: 30px;
+ 
+}
+.detail {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 60px;
+}
+.img-detail {
+  width: 300px;
+  height: 350px;
+  margin-left: 80px;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+
+.container{
+  margin:10px
+}
+
+
+.label-decription {
+  color: rgb(218, 169, 78);
+  font-weight: bold;
+}
+.watch{
+  background-color:white;
+border-radius: 7%;
+margin-bottom: 10px;
+font-family: fantasy;
+font-size: 20px;
+border:3px solid rgb(206, 179, 58) ;
+color: rgb(206, 179, 58);}
+h3{
+  margin-left: 15px;
+}
+
+

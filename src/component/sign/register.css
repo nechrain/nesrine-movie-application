@@ -1,0 +1,19 @@
+.form-1 {
+  width: 700px;
+  height: 400px;
+  margin-bottom: 40px;
+  margin-left: 350px;
+  margin-top: 40px;
+  border: 5px solid rgb(165, 142, 42);
+  background-color: teal;
+  border-radius: 7%;
+}
+.enregistrer {
+  color: rgb(214, 165, 91);
+  margin-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.in {
+  margin-left: 80px;
+}

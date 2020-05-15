@@ -1,0 +1,41 @@
+.nav-bar {
+  background: #f2994a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f2994a, #f2c94c); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f2994a, #f2c94c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-around;
+
+ 
+}
+.inscription {
+  margin-top: 30px;
+}
+.logoo {
+  
+  
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.liste{
+  display: flex;
+  list-style: none;
+
+  justify-content: space-between;
+  text-decoration: none;
+}
+a {
+  color: white;
+  padding-left: 40px;
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 30px;
+  margin-top: 23px;
+}
+
+a:hover {
+ color:rgb(74, 163, 190); 
+ font-size: 20;
+ text-decoration: none;
+}
