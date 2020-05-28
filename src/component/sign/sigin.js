@@ -81,15 +81,7 @@ class Sigin extends React.Component {
             placeholder="Password..."
             onChange={this.onChangepassword}
           />
-          <div>
-            <label className="titre2 ">Confirm Password</label>
-            <input
-              className="recherchezone"
-              type="text"
-              placeholder="Confirm Password"
-              onChange={this.onChangeconfirmpassword}
-            />{" "}
-          </div>
+         
           <div>
             <button className="submit" onClick={this.save}>
               Submit

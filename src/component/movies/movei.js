@@ -22,7 +22,7 @@ function Movieii(props) {
        <h2>{ props.el.name }</h2>
    <p> {props.el.description} </p>
    <p>{props.el.rating}</p>
-   <a  href="/movieDetail.js" >Detail</a>
+   
    
   
       </div>

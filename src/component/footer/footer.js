@@ -1,7 +1,7 @@
 
            import React from "react";
            import "./footer.css";
-           import Logo from './05-01.jpg'
+           import Logo from './LOGOFINAL.png'
            function Footer() {
              return (
                <div className="footer">

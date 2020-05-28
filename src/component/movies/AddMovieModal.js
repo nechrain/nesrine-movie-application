@@ -74,10 +74,10 @@ export class AddMoviesModal extends Component {
           </form>
         </Modal.Body>
         <Modal.Footer>
-          <Button color="primary" onClick={this.props.addObjectMovie}>
+          <Button className="adde"  onClick={this.props.addObjectMovie}>
             Add Movie
           </Button>{" "}
-          <Button color="secondary" onClick={this.props.onHide}>
+          <Button  className="close" onClick={this.props.onHide}>
             Cancel
           </Button>
         </Modal.Footer>

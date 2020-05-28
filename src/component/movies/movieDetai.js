@@ -40,13 +40,7 @@ export default class Detail extends Component {
               <Label className="label-decription">Description</Label>
             </h3>
             <p>{this.props.el.description}</p> <br />
-            <Link to={"/login"}>
-              {" "}
-             <center><button className="watch">
-                Watch <i style={{ color: "theal" }} class="fas fa-eye"></i>
-              </button>
-              </center> 
-            </Link>
+            
            
             </div>
           </div>
